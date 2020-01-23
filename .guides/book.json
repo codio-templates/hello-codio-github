@@ -1,0 +1,23 @@
+{
+ "name": "Hello Codio with Github",
+ "children": [
+  {
+   "title": "Only Once: Connect your Codio and your Github",
+   "id": "579128d5-9b14-4f2e-b214-9864a75bb39d",
+   "pageId": "579128d5-9b14-4f2e-b214-9864a75bb39d",
+   "type": "page"
+  },
+  {
+   "title": "Connecting a Codio Box to a GitHub repo",
+   "id": "8a8c01cf-8a26-dcee-a607-96e33ff7a3e4",
+   "pageId": "8a8c01cf-8a26-dcee-a607-96e33ff7a3e4",
+   "type": "page"
+  },
+  {
+   "id": "5e1d764b-02a5-80c8-f4ef-8c723fc31aa6",
+   "title": "Saving your Work with Git",
+   "pageId": "82bb5ed3-e7a8-4430-1dae-43248cf73143",
+   "type": "page"
+  }
+ ]
+}

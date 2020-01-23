@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "579128d5-9b14-4f2e-b214-9864a75bb39d",
+   "title": "Only Once: Connect your Codio and your Github",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Only-Once--Connect-your-Codio-and-your-Github-5791.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8a8c01cf-8a26-dcee-a607-96e33ff7a3e4",
+   "title": "Connecting a Codio Box to a GitHub repo",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Connecting-a-Codio-Box-to-a-GitHub-repo-8a8c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "82bb5ed3-e7a8-4430-1dae-43248cf73143",
+   "title": "Saving your Work with Git",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Saving-your-Work-with-Git-82bb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
