@@ -1,9 +1,9 @@
-Git allows you to save multiple versions of your work. The basic things you want to do are just a few commands in the terminal. You can open the terminal by going to `Tools > Terminal`
+Git allows you to save multiple versions of your work. The basic things you want to do are just a few commands in the terminal. You can open the terminal by selecting **Tools->Terminal**.
 ![.guides/img/terminal](.guides/img/terminal.png)
 
 ## Saving your work (aka "Committing" and "Pushing")
 1. **Type `git add .` and press Enter/Return**
-    This command tells git to go collect all the changes you have made since your last save (which is called "commit" in Git)
+    This command tells git to go collect all the changes you have made since your last save (which is called "commit" in Git).
 1. **Type `git commit -m "commit message"` and press Enter/Return**
     This command bundles all your changes and gives them a useful human-readable name -- so make sure you fill in something useful where is says `commit message`!
 1. **Type `git push` and press Enter/Return**
