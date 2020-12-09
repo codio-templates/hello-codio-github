@@ -5,10 +5,10 @@ You do this by (feel free to open another Codio tab to follow along):
 
 1. Clicking on your user name in the bottom left of the main menu. 
 
-1. Go to the **Applications** tab so your screen looks like the screen shot below.
+1. Go to the <b>Applications</b> tab so your screen looks like the screen shot below.
 ![.guides/img/GitHub1](.guides/img/GitHub1.png)
 
-1. Click the **Connect account** button under **Github** and log in to your Github account when prompted.
+1. Click the <b>Connect account</b> button under <b>Github</b> and log in to your Github account when prompted.
 ![.guides/img/Github2](.guides/img/Github2.png)
 
-1. For SSH connections, you will also need to press the **Upload public key** button so Codio and Github exchange keys. 
+1. For SSH connections, you will also need to press the <b>Upload public key</b> button so Codio and Github exchange keys. 
