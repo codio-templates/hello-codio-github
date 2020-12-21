@@ -3,7 +3,8 @@ Each Codio box (Assignment, Book, or Project) can be mapped to a GitHub repo. Th
 
 ## In GitHub: Make a New Repo 
 
-<details><summary>**Wait! I have an existing repo I want to clone**</summary>You can import a project from a GitHub repo [docs page here](https://docs.codio.com/project/projects/#creating-and-importing-a-project) and this connection is made during the importing process. If you are familiar with Git, skip the rest of this guide and just use the terminal as usual  by going to `Tools > Terminal`. </details>
+<details><summary><b>Wait! I have an existing repo I want to clone</b></summary>You can import a project from a GitHub repo <a href="https://docs.codio.com/project/projects/#creating-and-importing-a-project">docs page here</a> and this connection is made during the importing process. If you are familiar with Git, skip the rest of this guide and just use the terminal as usual  by going to <code>Tools > Terminal</code>. </details>
+
 
 1. Go to your GitHub organization (or profile) and click the green **New** repository button
 ![.guides/img/NewRepo](.guides/img/NewRepo.png)
@@ -16,7 +17,7 @@ Each Codio box (Assignment, Book, or Project) can be mapped to a GitHub repo. Th
 
 
 ## In Codio: Connect to Repo
-<details><summary>**Just give me a terminal!**</summary> You can skip the rest of this guide and do your normal Git workflow via command line if you prefer. Open terminal by selecting **Tools->Terminal**</details>
+<details><summary><b>Just give me a terminal!</b></summary> You can skip the rest of this guide and do your normal Git workflow via command line if you prefer. Open terminal by selecting <b>Tools->Terminal</b></details>
 
 
 
