@@ -1,0 +1,20 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Only-Once--Connect-your-Codio-and-your-Github-5791",
+		"Connecting-a-Codio-Box-to-a-GitHub-repo-8a8c",
+		"Saving-your-Work-with-Git-5e1d"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Hello Codio with Github",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}
